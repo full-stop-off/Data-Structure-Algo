@@ -1,7 +1,7 @@
 # include <stdio.h>
 # define MAX 100
-# include YES 1
-#  define NO 0
+# define YES 1
+# define NO 0
 
 struct stack
 {
